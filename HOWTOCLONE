@@ -1,0 +1,2 @@
+#git clone file://${HOME}/git/android-cansi-app-01.git
+#git remote add origin file://${HOME}/git/android-cansi-app-01.git

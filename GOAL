@@ -1,0 +1,8 @@
+
+_______________________________________________________________________
+Descriçãro                                          | Branch   | Status
+----------------------------------------------------+----------+------+
+Criar um exemplo de cansi sem dependencia           | cansi-sd | [KO] |
+Criar um exemplo de cansi com dependencias estáticas| cansi-cde| [KO] |
+Criar um exemplo de cansi com dependencias dinâmicas| cansi-cdd| [KO] |
+Criar um exemplo de cansi com bibliotecas externas  | cansi-cb | [KO] |

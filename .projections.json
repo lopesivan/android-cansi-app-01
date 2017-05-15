@@ -1,0 +1,5 @@
+{
+  "*.am":   { "type": "am" },
+  "*.mk":   { "type": "app" },
+  "Makefile": { "type": "make" }
+}
